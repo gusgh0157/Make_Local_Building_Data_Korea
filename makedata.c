@@ -3,11 +3,9 @@
 #include <mysql.h>
 #include <time.h>
 #include <stdio.h>
-#define HOST "customer-management.clmkxspmievh.ap-northeast-2.rds.amazonaws.com"
-#define USER "lab401"
-#define PASS "00000000"
-#define NAME "test"
-
+#define USER 
+#define PASS 
+#define NAME 
 
 
 int main() {
